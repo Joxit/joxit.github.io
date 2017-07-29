@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/Joxit/joxit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### docker-kosmtik
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
 
-### Markdown
+[Github project](https://github.com/Joxit/docker-kosmtik){: class="btn"}
+[GitHub Pages](https://joxit.github.io/docker-kosmtik/){: class="btn"}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### docker-registry-ui
 
-```markdown
-Syntax highlighted code block
+Docker registry v2 web User Interface.
 
-# Header 1
-## Header 2
-### Header 3
+[Github project](https://github.com/Joxit/docker-registry-ui){: class="btn"}
+[GitHub Pages](https://joxit.github.io/docker-registry-ui/){: class="btn"}
+[Demo](https://joxit.github.io/docker-registry-ui/demo){: class="btn"}
 
-- Bulleted
-- List
+### tile-server-ui
 
-1. Numbered
-2. List
+User Interface for tile servers using leaflet.
 
-**Bold** and _Italic_ and `Code` text
+[Github project](https://github.com/Joxit/tile-server-ui){: class="btn"}
+[GitHub Pages](https://joxit.github.io/tile-server-ui/){: class="btn"}
+[Demo](https://joxit.github.io/tile-server-ui/demo){: class="btn"}
 
-[Link](url) and ![Image](src)
-```
+### color-operations-ui
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Color operations user interface.
 
-### Jekyll Themes
+[Github project](https://github.com/Joxit/color-operations-ui){: class="btn"}
+[GitHub Pages](https://joxit.github.io/color-operations-ui/){: class="btn"}
+[Demo](https://joxit.github.io/color-operations-ui/demo){: class="btn"}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joxit/joxit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### docker-rust-openssl
 
-### Support or Contact
+Docker for rust/rustc/cargo with openssl.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Github project](https://github.com/Joxit/docker-rust-openssl){: class="btn"}
+[GitHub Pages](https://joxit.github.io/docker-rust-openssl/){: class="btn"}
