@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn-primary {
+  color: rgba(96, 108, 113, 0.7);
+  border-color: rgba(96, 108, 113, 0.2);
+  &:hover {
+    color: rgba(96, 108, 113, 0.8);
+    background-color: rgba(96, 108, 113, 0.2);
+    border-color: rgba(96, 108, 113, 0.3);
+  }
+}
