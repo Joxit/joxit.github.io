@@ -1,3 +1,7 @@
+---
+title: Jones Magloire | Projects
+---
+
 ## Projects
 
 ### docker-kosmtik
