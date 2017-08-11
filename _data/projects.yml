@@ -1,0 +1,23 @@
+- name: docker-kosmtik
+  description: Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
+  github: https://github.com/Joxit/docker-kosmtik
+  ghpage: https://joxit.github.io/docker-kosmtik/
+- name: docker-registry-ui
+  description: Docker registry v2 web User Interface.
+  github: https://github.com/Joxit/docker-registry-ui
+  ghpage: https://joxit.github.io/docker-registry-ui/
+  demo: https://joxit.github.io/docker-registry-ui/demo
+- name: tile-server-ui
+  description: User Interface for tile servers using leaflet.
+  github: https://github.com/Joxit/tile-server-ui
+  ghpage: https://joxit.github.io/tile-server-ui/
+  demo: https://joxit.github.io/tile-server-ui/demo
+- name: color-operations-ui
+  description: Color operations user interface.
+  github: https://github.com/Joxit/color-operations-ui
+  ghpage: https://joxit.github.io/color-operations-ui/
+  demo: https://joxit.github.io/color-operations-ui/demo
+- name: docker-rust-openssl
+  description: Docker for rust/rustc/cargo with openssl.
+  github: https://github.com/Joxit/docker-rust-openssl
+  ghpage: https://joxit.github.io/docker-rust-openssl/
