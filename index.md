@@ -1,43 +1,19 @@
 ---
-title: Jones Magloire | Projects
+title: Projects
 ---
 
-## Projects
+{% for projects in site.data.projects %}
 
-### docker-kosmtik
+## {{ projects.type }}
 
-Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
+{% for project in projects.projects %}
 
-[Github project](https://github.com/Joxit/docker-kosmtik){: class="btn btn-primary"}
-[GitHub Pages](https://joxit.github.io/docker-kosmtik/){: class="btn btn-primary"}
+### {{ project.name }}
 
-### docker-registry-ui
+{{ project.description }}
 
-Docker registry v2 web User Interface.
+{% if project.github %}[Github project](<{{ project.github }}>){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.page %}[Project Page]({{project.page}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.doc %}[Documentation]({{project.doc}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.demo %}[Live Demo](<{{ project.demo }}>){: class="btn btn-primary" target="\_blank"}{% endif %}
 
-[Github project](https://github.com/Joxit/docker-registry-ui){: class="btn btn-primary"}
-[GitHub Pages](https://joxit.github.io/docker-registry-ui/){: class="btn btn-primary"}
-[Demo](https://joxit.github.io/docker-registry-ui/demo){: class="btn btn-primary"}
+{% endfor %}
 
-### tile-server-ui
-
-User Interface for tile servers using leaflet.
-
-[Github project](https://github.com/Joxit/tile-server-ui){: class="btn btn-primary"}
-[GitHub Pages](https://joxit.github.io/tile-server-ui/){: class="btn btn-primary"}
-[Demo](https://joxit.github.io/tile-server-ui/demo){: class="btn btn-primary"}
-
-### color-operations-ui
-
-Color operations user interface.
-
-[Github project](https://github.com/Joxit/color-operations-ui){: class="btn btn-primary"}
-[GitHub Pages](https://joxit.github.io/color-operations-ui/){: class="btn btn-primary"}
-[Demo](https://joxit.github.io/color-operations-ui/demo){: class="btn btn-primary"}
-
-### docker-rust-openssl
-
-Docker for rust/rustc/cargo with openssl.
-
-[Github project](https://github.com/Joxit/docker-rust-openssl){: class="btn btn-primary"}
-[GitHub Pages](https://joxit.github.io/docker-rust-openssl/){: class="btn btn-primary"}
+{% endfor %}
