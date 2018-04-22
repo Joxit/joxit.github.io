@@ -1,55 +1,84 @@
-- type: Projects
+- type: My Projects
   projects:
-  - name: docker-kosmtik
-    description: Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
-    github: https://github.com/Joxit/docker-kosmtik
-    page: https://joxit.github.io/docker-kosmtik/
   - name: docker-registry-ui
     description: Docker registry v2 web User Interface.
     github: https://github.com/Joxit/docker-registry-ui
     page: https://joxit.github.io/docker-registry-ui/
     demo: https://joxit.github.io/docker-registry-ui/demo
+    languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
+  - name: docker-kosmtik
+    description: Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
+    github: https://github.com/Joxit/docker-kosmtik
+    page: https://joxit.github.io/docker-kosmtik/
+    languages: [Dockerfile]
   - name: tile-server-ui
     description: User Interface for tile servers using leaflet.
     github: https://github.com/Joxit/tile-server-ui
     page: https://joxit.github.io/tile-server-ui/
     demo: https://joxit.github.io/tile-server-ui/demo
+    languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
+  - name: pelias-mapbox-gl-js
+    description: Add Pelias geocoding to your Mapbox GL JS map.
+    github: https://github.com/Joxit/pelias-mapbox-gl-js
+    page: https://joxit.github.io/pelias-mapbox-gl-js/
+    demo: https://joxit.github.io/pelias-mapbox-gl-js/demo
+    languages: [JavaScript, CSS]
   - name: color-operations-ui
     description: Color operations user interface.
     github: https://github.com/Joxit/color-operations-ui
     page: https://joxit.github.io/color-operations-ui/
     demo: https://joxit.github.io/color-operations-ui/demo
+    languages: [RiotJS, HTML, JavaScript]
   - name: docker-rust-openssl
     description: Docker for rust/rustc/cargo with openssl.
     github: https://github.com/Joxit/docker-rust-openssl
     page: https://joxit.github.io/docker-rust-openssl/
-- type: Contributions
+    languages: [Dockerfile]
+- type: My Contributions
   projects:
+  - name: pelias
+    description: A distributed full-text geographic search engine using ElasticSearch.
+    github: https://github.com/pelias
+    page: https://pelias.io
+    languages: [JavaScript, NodeJS]
   - name: riot-mui
     description: Set of material ui components for riot js.
     github: https://github.com/kysonic/riot-mui
     page: http://kysonic.github.io/riot-mui/
+    languages: [RiotJS, JavaScript, CSS, HTML]
+  - name: whosonfirst-data
+    description: A gazetteer or big list of places, each with a stable identifier and some number of descriptive properties about that location.
+    github: https://github.com/whosonfirst-data
+    page: https://whosonfirst.org/
+    languages: [Go, JavaScript, NodeJS]
   - name: shiplift
     description: Rust interface for maneuvering docker containers.
     github: https://github.com/softprops/shiplift
     doc: http://lessis.me/shiplift/shiplift/index.html
+    languages: [Rust]
   - name: nickel.rs
     description: An expressjs inspired web framework for Rust.
     github: https://github.com/nickel-org/nickel.rs
     doc: https://docs.rs/nickel/
+    languages: [Rust]
   - name: chronograf
     description: Open source monitoring and visualization UI for the TICK stack.
     page: https://www.influxdata.com/time-series-platform/chronograf/
     github: https://github.com/influxdata/chronograf
+    languages: [Go]
   - name: winston-slack-hook
     description: Slack WebHook transport for Winston logging library.
     github: https://github.com/fahad19/winston-slack-hook
+    languages: [JavaScript, NodeJS]
   - name: docker-mapnik3
     description: Latest Mapnik3 docker container build.
     github: https://github.com/jawg/docker-mapnik3
+    languages: [Dockerfile]
   - name: pelias-server-stress
     description: Pelias (Geocoding) stress test for gatling.
     github: https://github.com/jawg/pelias-server-stress
+    languages: [Scala, Java]
   - name: osrm-server-stress
     description: OSRM (routing) stress test for gatling.
     github: https://github.com/jawg/osrm-server-stress
+    languages: [Scala, Java]
