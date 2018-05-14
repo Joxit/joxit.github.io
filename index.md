@@ -2,7 +2,7 @@
 
 Hi, I'm a software developer based in Paris and I work at Jawg. I'm a DevOPS and back-end developer who love open-source.
 I like to code in Java, Javascript ([Node.js](https://nodejs.org/en/)) and [Rust](https://www.rust-lang.org).
-My favorite UI library is [RiotJS](http://riotjs.com/).
+My favorite UI library is [RiotJS](https://riot.js.org/).
 
 Here is a list of projects that I [maintain](#my-projects) and [contribute](#my-contributions).
 
