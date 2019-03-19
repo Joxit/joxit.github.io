@@ -1,3 +1,8 @@
+---
+sitemap:
+  priority: 1
+---
+
 # Resume
 
 Hi, I'm a software developer based in Paris and I work at Jawg. I'm a DevOPS and back-end developer who love open-source.

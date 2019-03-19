@@ -3,36 +3,36 @@
   - name: docker-registry-ui
     description: Docker registry v2 web User Interface.
     github: https://github.com/Joxit/docker-registry-ui
-    page: https://joxit.github.io/docker-registry-ui/
-    demo: https://joxit.github.io/docker-registry-ui/demo
+    page: https://joxit.dev/docker-registry-ui/
+    demo: https://joxit.dev/docker-registry-ui/demo
     languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
   - name: docker-kosmtik
     description: Light docker for [kosmtik](https://github.com/kosmtik/kosmtik).
     github: https://github.com/Joxit/docker-kosmtik
-    page: https://joxit.github.io/docker-kosmtik/
+    page: https://joxit.dev/docker-kosmtik/
     languages: [Dockerfile]
   - name: tile-server-ui
     description: User Interface for tile servers using leaflet.
     github: https://github.com/Joxit/tile-server-ui
-    page: https://joxit.github.io/tile-server-ui/
-    demo: https://joxit.github.io/tile-server-ui/demo
+    page: https://joxit.dev/tile-server-ui/
+    demo: https://joxit.dev/tile-server-ui/demo
     languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
   - name: pelias-mapbox-gl-js
     description: Add Pelias geocoding to your Mapbox GL JS map.
     github: https://github.com/Joxit/pelias-mapbox-gl-js
-    page: https://joxit.github.io/pelias-mapbox-gl-js/
-    demo: https://joxit.github.io/pelias-mapbox-gl-js/demo
+    page: https://joxit.dev/pelias-mapbox-gl-js/
+    demo: https://joxit.dev/pelias-mapbox-gl-js/demo
     languages: [JavaScript, CSS]
   - name: color-operations-ui
     description: Color operations user interface.
     github: https://github.com/Joxit/color-operations-ui
-    page: https://joxit.github.io/color-operations-ui/
-    demo: https://joxit.github.io/color-operations-ui/demo
+    page: https://joxit.dev/color-operations-ui/
+    demo: https://joxit.dev/color-operations-ui/demo
     languages: [RiotJS, HTML, JavaScript]
   - name: docker-rust-openssl
     description: Docker for rust/rustc/cargo with openssl.
     github: https://github.com/Joxit/docker-rust-openssl
-    page: https://joxit.github.io/docker-rust-openssl/
+    page: https://joxit.dev/docker-rust-openssl/
     languages: [Dockerfile]
 - type: My Contributions
   projects:
