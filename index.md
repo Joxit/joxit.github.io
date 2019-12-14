@@ -21,7 +21,7 @@ Here is a list of projects that I [maintain](#my-projects) and [contribute](#my-
 
 {{ project.description }}
 
-{% if project.github %}[Github project](<{{ project.github }}>){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.page %}[Project Page]({{project.page}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.doc %}[Documentation]({{project.doc}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.demo %}[Live Demo](<{{ project.demo }}>){: class="btn btn-primary" target="\_blank"}{% endif %}
+{% if project.github %}[Github project](<{{ project.github }}>){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.page %}[Project Page]({{project.page}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.doc %}[Documentation]({{project.doc}}){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.demo %}[Live Demo](<{{ project.demo }}>){: class="btn btn-primary" target="\_blank"}{% endif %} {% if project.link %}[Link](<{{ project.link }}>){: class="btn btn-primary" target="\_blank"}{% endif %}
 {% if project.languages %}
 
 <div class="languages-list">
