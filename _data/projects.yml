@@ -85,23 +85,30 @@
 - type: My Blog Articles
   projects:
   - name: Docker Multi-Stage Build
-    description: On June 13, 2017 took place the Paris Container Day. At the opening of the conferences they unveiled a new docker feature : multi-stage build. That's the subject of this article.
+    description: |-
+      On June 13, 2017 took place the Paris Container Day. At the opening of the conferences they unveiled a new docker feature : multi-stage build. That's the subject of this article.
     link: https://blog.jawg.io/docker-multi-stage-build/
   - name: Introducing Map taxonomy chart with Jawg Maps
-    description: Sometimes, we want to see our map style outside the map context. That's why we created the map taxonomy chart project. Jawg taxonomy aims to view almost all your style elements in one page. This is completely compatible with our maps styles created with the jawg lab. The result is viewable on websites and printable (pdf or paper).
+    description: |-
+      Sometimes, we want to see our map style outside the map context. That's why we created the map taxonomy chart project. Jawg taxonomy aims to view almost all your style elements in one page. This is completely compatible with our maps styles created with the jawg lab. The result is viewable on websites and printable (pdf or paper).
     link: https://blog.jawg.io/map-taxonomy-chart-with-jawg-maps/
   - name: Jawg Maps is evolving every day
-    description: At Jawg, we want to give our customers the best experience when they navigate our maps. That's why every day we strive to improve the services we offer. Discover the new features of Jawg Maps : OSM data management, transport network, hillshades, landcover...
+    description: |-
+      At Jawg, we want to give our customers the best experience when they navigate our maps. That's why every day we strive to improve the services we offer. Discover the new features of Jawg Maps : OSM data management, transport network, hillshades, landcover...
     link: https://blog.jawg.io/jawg-is-evolving-every-day/
   - name: Rendu GPU @ jawg (French)
-    description: Cela fait quelques mois maintenant que nous avons sorti les hillshades et landcovers. Cependant les hillshades n'étaient disponibles uniquement sur vos styles vectoriels. Maintenant ils le sont également dans vos styles raster !
+    description: |-
+      Cela fait quelques mois maintenant que nous avons sorti les hillshades et landcovers. Cependant les hillshades n'étaient disponibles uniquement sur vos styles vectoriels. Maintenant ils le sont également dans vos styles raster !
     link: https://blog.jawg.io/rendu-gpu-at-jawg/
   - name: Introducing our new routing profile
-    description: It's been a long time since we introduced our car routing service. Now, we are please to announce our new routing profile: walk. This profile is focused on pedestrian routing.
+    description: |-
+      It's been a long time since we introduced our car routing service. Now, we are please to announce our new routing profile: walk. This profile is focused on pedestrian routing.
     link: https://blog.jawg.io/new-routing-profile/
   - name: Do you want some icons on your maps ?
-    description: Icons are deeply linked to the maps we use every day. Universal symbols, they do not suffer from the language barrier and allow to be understood by all.
+    description: |-
+      Icons are deeply linked to the maps we use every day. Universal symbols, they do not suffer from the language barrier and allow to be understood by all.
     link: https://blog.jawg.io/introducing-new-icon-sets/
   - name: Jawg visual identity through time
-    description: We changed our visual identity after 3 years because it's very important for a brand. It helps to distinguish a brand from the crowd of other business.
+    description: |-
+      We changed our visual identity after 3 years because it's very important for a brand. It helps to distinguish a brand from the crowd of other business.
     link: https://blog.jawg.io/jawg-through-time/
