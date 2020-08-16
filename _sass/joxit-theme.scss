@@ -7,6 +7,25 @@
   }
 }
 
+.hero.is-medium .hero-body {
+    padding: 1.5rem 1.5rem 3rem 1.5rem;
+}
+
+@media screen and (min-width: $tablet), print {
+  .hero.is-medium .hero-body {
+      padding: 1.5rem 1.5rem 9rem 1.5rem;
+  }
+}
+
+.image.is-portrait {
+  min-height: 5rem;
+  min-width: 5rem;
+  height: 25%;
+  width: 25%;
+  max-height: 256px;
+  max-width: 256px;
+}
+
 .social {
   margin-right: 1em;
   svg path {
