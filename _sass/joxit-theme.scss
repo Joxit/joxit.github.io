@@ -8,12 +8,13 @@
 }
 
 .hero.is-medium .hero-body {
-    padding: 1.5rem 1.5rem 3rem 1.5rem;
+  padding: 1.5rem 1.5rem 3rem 1.5rem;
 }
 
-@media screen and (min-width: $tablet), print {
+@media screen and (min-width: $tablet),
+print {
   .hero.is-medium .hero-body {
-      padding: 1.5rem 1.5rem 9rem 1.5rem;
+    padding: 1.5rem 1.5rem 9rem 1.5rem;
   }
 }
 
@@ -28,6 +29,7 @@
 
 .social {
   margin-right: 1em;
+
   svg path {
     fill: $white-ter;
   }
@@ -37,41 +39,53 @@
   font-size: 0.9em;
   margin-top: -1em;
 }
+
 .language {
   padding-right: 5px;
 }
+
 .dot {
   width: 0.8em;
   height: 0.8em;
   border-radius: 50%;
   display: inline-block;
+
   &.dot-RiotJS {
     background-color: #fc0e49;
   }
+
   &.dot-HTML {
     background-color: #e34c26;
   }
+
   &.dot-JavaScript {
     background-color: #f1e05a;
   }
+
   &.dot-Dockerfile {
     background-color: #066da5;
   }
+
   &.dot-CSS {
     background-color: #563d7c;
   }
+
   &.dot-Rust {
     background-color: #dea584;
   }
+
   &.dot-Go {
     background-color: #375eab;
   }
+
   &.dot-NodeJS {
     background-color: #43853d;
   }
+
   &.dot-Scala {
     background-color: #c22d40;
   }
+
   &.dot-Java {
     background-color: #b07219;
   }
