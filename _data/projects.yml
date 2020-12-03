@@ -6,6 +6,11 @@
     page: https://joxit.dev/docker-registry-ui/
     demo: https://joxit.dev/docker-registry-ui/demo
     languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
+  - name: joxit/runtasktic
+    description: Fantas(k)tic command-line for execution of regular long sequential or parallel tasks.
+    github: https://github.com/Joxit/runtasktic
+    page: https://joxit.dev/runtasktic/
+    languages: [Rust]
   - name: joxit/docker-kosmtik
     description: Light docker for <a href="https://github.com/kosmtik/kosmtik" about="_blank">kosmtik</a>.
     github: https://github.com/Joxit/docker-kosmtik
