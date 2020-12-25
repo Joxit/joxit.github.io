@@ -11,6 +11,17 @@
     github: https://github.com/Joxit/runtasktic
     page: https://joxit.dev/runtasktic/
     languages: [Rust]
+  - name: joxit/kokai
+    description: CLI for your release notes using Conventional Commits written in rust.
+    github: https://github.com/Joxit/kokai
+    page: https://joxit.dev/kokai/
+    languages: [Rust]
+  - name: joxit/pelias-mapbox-gl-js
+    description: Add Pelias geocoding to your Mapbox GL JS map.
+    github: https://github.com/Joxit/pelias-mapbox-gl-js
+    page: https://joxit.dev/pelias-mapbox-gl-js/
+    demo: https://joxit.dev/pelias-mapbox-gl-js/demo
+    languages: [JavaScript, CSS]
   - name: joxit/docker-kosmtik
     description: Light docker for <a href="https://github.com/kosmtik/kosmtik" about="_blank">kosmtik</a>.
     github: https://github.com/Joxit/docker-kosmtik
@@ -22,12 +33,6 @@
     page: https://joxit.dev/tile-server-ui/
     demo: https://joxit.dev/tile-server-ui/demo
     languages: [RiotJS, JavaScript, CSS, HTML, Dockerfile]
-  - name: joxit/pelias-mapbox-gl-js
-    description: Add Pelias geocoding to your Mapbox GL JS map.
-    github: https://github.com/Joxit/pelias-mapbox-gl-js
-    page: https://joxit.dev/pelias-mapbox-gl-js/
-    demo: https://joxit.dev/pelias-mapbox-gl-js/demo
-    languages: [JavaScript, CSS]
   - name: joxit/color-operations-ui
     description: Color operations user interface.
     github: https://github.com/Joxit/color-operations-ui
