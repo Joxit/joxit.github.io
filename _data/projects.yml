@@ -122,3 +122,19 @@
     description: |-
       We changed our visual identity after 3 years because it's very important for a brand. It helps to distinguish a brand from the crowd of other business.
     link: https://blog.jawg.io/jawg-through-time/
+  - name: Earth's oceans and seas
+    description: |-
+      From space, we can see that the surface of our dear planet is mainly composed of water. Oceans and Seas covering a good part of our maps and we now display their names.
+    link: https://blog.jawg.io/earths-oceans-and-seas/
+  - name: Jawg x Pelias
+    description: |-
+      Geocoding is the second most used service at Jawg (after base maps). We added this service in January 2017 and we are happy to have chosen the Pelias project for our geocoder.
+    link: https://blog.jawg.io/jawg-x-pelias/
+  - name: Maps in your language
+    description: |-
+      Discover the new features of Jawg Maps : automatic language, road shield, static maps custom icons and logo position.
+    link: https://blog.jawg.io/maps-in-your-language/
+  - name: Embrace the new streets-v2 tileset
+    description: |-
+      Discover our new tileset: streets-v2 with better language management, better 3D building, vector tile size reduced with various improvements.
+    link: https://blog.jawg.io/embrace-streets-v2/
