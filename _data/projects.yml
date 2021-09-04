@@ -98,6 +98,10 @@
     description: |-
       On June 13, 2017 took place the Paris Container Day. At the opening of the conferences they unveiled a new docker feature : multi-stage build. That's the subject of this article.
     link: https://blog.jawg.io/docker-multi-stage-build/
+  - name: Introducting satellite imaging
+    description: |-
+      Check out our brand new Jawg Maps style: jawg-satellite-streets, displaying beautiful satellite imagery! Available for France, Luxembourg, Monaco, Slovakia, Spain and Switzerland. More coming soon!
+    link: https://blog.jawg.io/satellite-imaging/
   - name: Introducing Map taxonomy chart with Jawg Maps
     description: |-
       Sometimes, we want to see our map style outside the map context. That's why we created the map taxonomy chart project. Jawg taxonomy aims to view almost all your style elements in one page. This is completely compatible with our maps styles created with the jawg lab. The result is viewable on websites and printable (pdf or paper).
