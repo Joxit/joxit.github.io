@@ -37,9 +37,15 @@
     
         <div id="navbar-burger" class="navbar-menu">
           <div class="navbar-end">
+            {% if site.navbar-items %}
+            {% for item in site.navbar-items %}
+            <a class="navbar-item" href="{{ item.href }}" {% if item.target %}target="{{ item.target }}"{% endif %}>{{ item.name }}</a>
+            {% endfor %}
+            {% else %}
             <a class="navbar-item" href="/#my-projects">Projects</a>
             <a class="navbar-item" href="/#my-contributions">Contributions</a>
             <a class="navbar-item" href="/#my-blog-articles">Blog</a>
+            {% endif %}
           </div>
         </div>
       </div>
