@@ -11,7 +11,7 @@ Hi, my name is Jones, I'm a **software developer** and **photography enthusiast*
 As a **software developer**, I'm a DevOPS and back-end developer at [Jawg](https://jawg.io) with a specialization in *Geographic Information Systems*.
 My favorite languages are Java/[Kotlin](https://kotlinlang.org/), Javascript ([Node.js](https://nodejs.org/en/)) and [Rust](https://www.rust-lang.org). I have some knowledges in front-end development, but that's not what I'm aiming for. But when necessary, I use [RiotJS](https://riot.js.org/) for my interfaces.
 
-As a **photography enthusiast**, I take photos during my trips and post them on my [Instagram](https://www.instagram.com/jox.it/). I'm using a *Nikon D5200* with a *18-300mm F3.5-5.6* lens and I like nature, architecture and street photography.
+As a **photography enthusiast**, I take photos during my trips and post them on my [Instagram](https://www.instagram.com/jox.it/). I'm using a *Nikon D5200* with a *18-300mm F3.5-5.6* and *50mm F1.4* lenses and I like nature, architecture and street photography.
 
 Here is a list of projects that I [created](#my-projects) and where I [contribute](#my-contributions).
 
