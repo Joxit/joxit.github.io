@@ -1,0 +1,200 @@
+.highlight {
+  .hll {
+    background-color: $code-selected;
+  }
+
+  .lineno {
+    background-color: $code-lineno-background;
+    color: $code-secondary;
+  }
+
+  /* --- Generics --- */
+  .ge {
+    font-style: italic;
+  } /* emph */
+  .gs {
+    font-weight: bold;
+  } /* strong */
+
+  /* --- Operators --- */
+  .o {
+    color: $code-operator;
+  } /* Operator */
+  .ow {
+    color: $code-operator;
+  } /* Word */
+
+  /* --- Comments --- */
+  .c {
+    color: $code-comment;
+    font-style: italic;
+  } /* Comment */
+  .cm {
+    color: $code-comment;
+    font-style: italic;
+  } /* Multi-line */
+  .cp {
+    color: $code-comment;
+    font-style: italic;
+  } /* Preproc */
+  .c1 {
+    color: $code-comment;
+    font-style: italic;
+  } /* Single */
+  .cs {
+    color: $code-comment;
+    font-style: italic;
+  } /* Special */
+
+  /* --- Names --- */
+  .nf {
+    color: $code-namespace;
+  } /* Function */
+  .na {
+    color: $code-secondary;
+  } /* Attribute */
+  .nx {
+    color: $code-secondary;
+  } /* Other */
+  .nc {
+    color: $code-namespace;
+  } /* Class */
+  .nn {
+    color: $code-keyword;
+  } /* Namespace */
+  .no {
+    color: $code;
+  } /* Constant */
+  .ne {
+    color: $code;
+  } /* Exception */
+  .nd {
+    color: $code-operator;
+  } /* Decorator */
+  .nt {
+    color: $code-operator;
+  } /* Tag */
+
+  /* --- Keywords --- */
+  .kn {
+    color: $code-operator;
+  } /* Namespace */
+  .k {
+    color: $code-keyword;
+  } /* Keyword */
+  .kc {
+    color: $code-operator;
+  } /* Constant */
+  .kd {
+    color: $code-keyword;
+  } /* Declaration */
+  .kp {
+    color: $code-keyword;
+  } /* Pseudo */
+  .kr {
+    color: $code-keyword;
+  } /* Reserved */
+  .kt {
+    color: $code-namespace;
+  } /* Type */
+
+  /* --- Variables --- */
+  .nv {
+    color: $code;
+  } /* Variable */
+  .vc {
+    color: $code;
+  } /* Class */
+  .vg {
+    color: $code;
+  } /* Global */
+  .vi {
+    color: $code;
+  } /* Instance */
+
+  /* --- Numerals --- */
+  .m {
+    color: $code-numeric;
+  } /* Number */
+  .il {
+    color: $code-numeric;
+  } /* Long */
+  .mf {
+    color: $code-numeric;
+  } /* Float */
+  .mh {
+    color: $code-numeric;
+  } /* Hex */
+  .mi {
+    color: $code-numeric;
+  } /* Integer */
+  .mo {
+    color: $code-numeric;
+  } /* Oct */
+
+  /* --- Strings --- */
+  .s {
+    color: $code-string;
+  } /* String */
+  .sr {
+    color: $code-string;
+  } /* Regex */
+  .sb {
+    color: $code-string;
+  } /* Backtick */
+  .s2 {
+    color: $code-string;
+  } /* Double */
+  .sh {
+    color: $code-string;
+  } /* Heredoc */
+  .sx {
+    color: $code-string;
+  } /* Other */
+  .s1 {
+    color: $code-string;
+  } /* Single */
+  .ss {
+    color: $code-string;
+  } /* Symbol */
+  .se {
+    color: $code-numeric;
+  } /* Escape */
+  .si {
+    color: $code-numeric;
+  } /* Interpol */
+  .sd {
+    color: $code-comment;
+  } /* Doc */
+
+  /* --- Other Literals --- */
+  .l {
+    color: $code-numeric;
+  } /* Literal */
+  .ld {
+    color: $code-string;
+  } /* Date */
+
+  /* --- Others --- */
+  .err {
+    color: $code;
+  } /* Error */
+  .gp {
+    color: $code-namespace;
+  } /* shell prompt */
+
+  /* --- Style --- */
+  .gi {
+    color: $code-string;
+  } /* inserted */
+  .gd {
+    color: $code;
+  } /* deleted */
+  .gh {
+    font-weight: bold;
+  } /* heading */
+  .gu {
+    color: $code-operator;
+    font-weight: bold;
+  } /* subheading */
+}

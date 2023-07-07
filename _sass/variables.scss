@@ -2,3 +2,14 @@ $text: #606c71;
 $body-size: 18px;
 $footer-padding: 3rem 1.5rem;
 $navbar-item-hover-background-color: #00b89c;
+
+$code-secondary: darken(#8ddb8c, 25%);
+$code-lineno-background: #e5e5e5; /* or ffffff */
+$code-selected: #d6d6d6;
+$code-operator: darken(#6cb6ff, 25%);
+$code-keyword: darken(#f47067, 25%);
+$code-namespace: darken(#dcbdfb, 25%);
+$code-comment: #768390;
+// $code-scoped: $code;
+$code-numeric: darken(#6cb6ff, 25%);
+$code-string: darken(#96d0ff, 25%);
