@@ -94,6 +94,10 @@
     languages: [Scala, Java]
 - type: My Blog Articles
   projects:
+  - name: Introducing Jawg Places JS
+    description: |-
+      We are excited to release our new library Jawg Places JS, a fast and easy way to turn any HTML input into a search bar with autocomplete. This new library can also be used as a plugin for Leaflet, MapLibre GL JS and Mapbox GL JS.
+    link: https://blog.jawg.io/introducing-jawg-places-js/
   - name: Docker Multi-Stage Build
     description: |-
       On June 13, 2017 took place the Paris Container Day. At the opening of the conferences they unveiled a new docker feature : multi-stage build. That's the subject of this article.
