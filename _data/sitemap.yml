@@ -2,6 +2,12 @@
   priority: 1
 - url: '/docker-registry-ui/demo'
   priority: 1
+- url: '/runtasktic/'
+  priority: 0.8
+- url: '/kokai/'
+  priority: 0.8
+- url: '/dns-server/'
+  priority: 0.8
 - url: '/pelias-mapbox-gl-js/'
   priority: 0.8
 - url: '/pelias-mapbox-gl-js/demo'

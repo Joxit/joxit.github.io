@@ -16,6 +16,11 @@
     github: https://github.com/Joxit/kokai
     page: https://joxit.dev/kokai/
     languages: [Rust]
+  - name: joxit/dns-server
+    description: Block ads and malwares at DNS level with your private DNS Server.
+    github: https://github.com/Joxit/dns-server
+    page: https://joxit.dev/dns-server/
+    languages: [Rust]
   - name: joxit/pelias-mapbox-gl-js
     description: Add Pelias geocoding to your Mapbox GL JS map.
     github: https://github.com/Joxit/pelias-mapbox-gl-js
