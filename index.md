@@ -6,10 +6,11 @@ sitemap:
 
 # Resume
 
-Hi, my name is Jones, I'm a **software developer** and **photography enthusiast**.
+Hi, my name is Jones, I'm a **software engineer** and **photography enthusiast**.
 
-As a **software developer**, I'm a DevOPS and back-end developer at [Jawg](https://jawg.io) with a specialization in *Geographic Information Systems*.
-My favorite languages are Java/[Kotlin](https://kotlinlang.org/), Javascript ([Node.js](https://nodejs.org/en/)) and [Rust](https://www.rust-lang.org). I have some knowledges in front-end development, but that's not what I'm aiming for. But when necessary, I use [RiotJS](https://riot.js.org/) for my interfaces.
+As a **software engineer**, I'm the CTO of [Jawg](https://jawg.io) with main topics in R&D, DevOPS and back-end development with a specialization in *Geographic Information Systems*.
+I'm also **a teacher at university** since 2017 where I teach final year master's students in computer science at the [Institut Galilée](https://galilee.univ-paris13.fr/). The [courses](https://joxit.dev/IG-Master2/) focus on technologies used in business such as JEE, Spring, Hibernate, Kotlin, React, VueJS... But also on cartography and OpenStreetMap since this is my specialization.
+My favorite languages are Java/[Kotlin](https://kotlinlang.org/), Javascript ([Node.js](https://nodejs.org/en/)) and [Rust](https://www.rust-lang.org). I have some knowledges in front-end development, but that's not what I'm aiming for. But when I need it, I use [RiotJS](https://riot.js.org/) and [React](https://react.dev/) for my interfaces.
 
 As a **photography enthusiast**, I take photos during my trips and post them on my [Instagram](https://www.instagram.com/jox.it/). I'm using a *Nikon D5200* with a *18-300mm F3.5-5.6* and *50mm F1.4* lenses and I like nature, architecture and street photography.
 

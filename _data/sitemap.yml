@@ -8,10 +8,16 @@
   priority: 0.8
 - url: '/dns-server/'
   priority: 0.8
+- url: '/IG-Master2/'
+  priority: 0.5
+- url: '/IG-Master2/osm/'
+  priority: 0.5
+- url: '/IG-Master2/cartographie/'
+  priority: 0.5
 - url: '/pelias-mapbox-gl-js/'
-  priority: 0.8
+  priority: 0.3
 - url: '/pelias-mapbox-gl-js/demo'
-  priority: 0.8
+  priority: 0.3
 - url: '/tile-server-ui/'
   priority: 0.6
 - url: '/tile-server-ui/demo'
